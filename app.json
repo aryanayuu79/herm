@@ -1,21 +1,21 @@
 {
-  "name": "hermit-md",
-  "description": " Whatsapp bot.",
+  "name": "𝛥𝑅𝑌𝛥𝛮   🖤🔥👑”",
+  "description": " 𝛥𝑅𝑌𝛥𝛮   🖤🔥👑”bot.",
   "keywords": [
-    "whatsapp bot"
+    "𝛥𝑅𝑌𝛥𝛮   🖤🔥👑”"
   ],
-  "repository": "https://github.com/A-d-i-t-h-y-a-n/hermit-md",
+  "repository": "https://github.com/A-d-i-t-h-y-a-n/her 𝛥𝑅𝑌𝛥𝛮   🖤🔥👑”,
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "session id",
+      "description": "03_03_H_E_R_M_I_T_096XEO4",
       "required": true,
       "value": ""
     },
     "SUDO": {
       "description": "owner number of the bot",
       "required": true,
-      "value": "null"
+      "value": "+923462485995"
     },
     "MODE": {
       "description": "mode public or private",
@@ -48,17 +48,17 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;923462485995;https://i.imgur.com/pbNNWfM.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ"
+      "value": "𝛥𝑅𝑌𝛥𝛮   🖤🔥👑”"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "𝛥𝑅𝑌𝛥𝛮   🖤🔥👑”;https://i.imgur.com/pbNNWfM.jpeg"
     },
     "READ_MSG": {
       "description": "Read all messages",
